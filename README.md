@@ -1,1 +1,1 @@
-<h3>Mini COmpiler Using Python</h3>
+<h3>Mini Compiler Using Python</h3>
